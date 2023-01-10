@@ -4,4 +4,5 @@ This data set contains booking information for a city hotel and a resort hotel, 
 
 
 
-![image](https://user-images.githubusercontent.com/101803400/211643524-f5f5284e-ace3-4eda-8603-2833a9afb64e.png)
+
+![image](https://user-images.githubusercontent.com/101803400/211644641-fe39970f-8908-4fe5-a2fc-5379bdaacf9d.png)
